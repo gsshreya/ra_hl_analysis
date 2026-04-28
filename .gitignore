@@ -2,3 +2,4 @@
 .RData
 *.Rproj
 data/raw/
+Rplots.pdf
